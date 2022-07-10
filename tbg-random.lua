@@ -1,4 +1,4 @@
-local theBadGuysCharacters = {"Wolf", "Snake", "Tarantula", "Piranha", "Shark", "Diane Foxington"}
+local theBadGuysCharacters = {"Mr. Wolf", "Mr. Snake", "Ms. Tarantula", "Mr. Piranha", "Mr. Shark", "Diane Foxington"}
 
 yourLove = theBadGuysCharacters[math.random(1, #theBadGuysCharacters)]
 

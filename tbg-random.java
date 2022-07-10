@@ -3,11 +3,11 @@ import java.util.Random;
 public class TheBadGuysJava {
   public static void main(String[] args) {
     String[] theBadGuys = {
-      "Wolf",
-      "Snake",
-      "Tarantula",
-      "Shark",
-      "Piranha",
+      "Mr. Wolf",
+      "Mr. Snake",
+      "Ms. Tarantula",
+      "Mr. Shark",
+      "Mr. Piranha",
       "Diane Foxington"
     };
 

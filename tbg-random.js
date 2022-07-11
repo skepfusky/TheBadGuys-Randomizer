@@ -10,7 +10,7 @@ let theBadGuys = [
 let yourLove = theBadGuys[Math.floor(Math.random() * theBadGuys.length)];
 
 if (yourLove === "Diane Foxington" || yourLove === "Mr. Wolf") {
-  console.log(`lol you're a ${yourLove} simp`);
+  console.log(`You have a crush on ${yourLove} you must be a furry!`);
 } else {
-  console.log(`${yourLove} is a cutie`);
+  console.log(`You chose ${yourLove} as your crush uwu`);
 }

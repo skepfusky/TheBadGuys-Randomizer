@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	theBadGuys := []string {"Mr. Wolf", "Mr. Snake", "Mr. Piranha", "Ms. Tarantula","Mr. Whale", "Diane Foxington"}
+	theBadGuys := [5]string {"Mr. Wolf", "Mr. Snake", "Mr. Piranha", "Ms. Tarantula","Mr. Whale", "Diane Foxington"}
 
 	yourLove := theBadGuys[rand.Intn(len(theBadGuys))]
 
